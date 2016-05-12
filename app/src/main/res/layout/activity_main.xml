@@ -10,6 +10,7 @@
     tools:context="com.github.satoshun.example.jobscheduler.MainActivity">
 
     <TextView
+        android:id="@+id/root"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello World!" />
